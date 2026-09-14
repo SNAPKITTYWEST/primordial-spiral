@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.o
+*.obj
+*.dcu
+*.fasl
+*.db
+*.lid~
+_build/
+.idea/
+.vscode/
+data/*.txt
+data/*.csv
+results/
+__pycache__/
+*.pyc
