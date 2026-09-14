@@ -7,8 +7,6 @@ Experimental computational reconstruction inspired by Vedic cosmological symboli
 **Dylan** is the primary systems language.
 **MATLAB** is the mathematical / numerical analysis environment.
 
-**Python is prohibited.** No Python source, no Python runtime dependency, no translation through Python.
-
 ## Explicit Classifications
 
 Throughout this repository three categories are maintained:
